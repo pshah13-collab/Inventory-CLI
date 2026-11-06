@@ -1,7 +1,7 @@
-# products.py — Tiny Inventory Tool
+# products.py Small Owners - Inventory Tool
 
 A small command-line inventory tool for a shop owner. Products are stored in a
-plain JSON file, so there is no database and no setup — just Python.
+plain JSON file, so there is no database and no setup, just Python.
 
 Every product has four fields: an `id`, a `name`, a `price`, and a `quantity`.
 
